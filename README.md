@@ -1,4 +1,4 @@
-# test
+# Test
 
 Hello, GIthub!
 Goodbye, Github!
